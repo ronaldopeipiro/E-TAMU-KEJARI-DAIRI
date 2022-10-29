@@ -1,0 +1,17 @@
+{
+    "name": "asus/etamu-kejari-dairi",
+    "autoload": {
+        "psr-4": {
+            "Asus\\EtamuKejariDairi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ronaldo Pei Piro",
+            "email": "ronaldopeipiro11@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.1"
+    }
+}
