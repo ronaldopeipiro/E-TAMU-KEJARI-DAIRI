@@ -1,5 +1,6 @@
 <?php
-require_once '../mpdf/autoload.php';
+require_once '../vendor/autoload.php';
+// require_once '../vendor/autoload.php';
 require '../function.php';
 $tanggal = date('d/m/Y');
 $bulan_ini = date('m');
